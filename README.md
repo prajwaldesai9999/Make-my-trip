@@ -43,9 +43,9 @@ This is a simple web automation project using Selenium and java. The project is 
 
 ## How to run the project
 
-- Clone the project
+- Clone the project.
 
-- Navigate to the project directory
+- Navigate to the project directory.
 
 - Run the following command to build the project
     ```
@@ -59,6 +59,3 @@ This is a simple web automation project using Selenium and java. The project is 
 
 - The project will run and the output will be displayed on the console.
 
-## License
-
-This project is licensed under the [DBaJ-NC-CFL](./LICENCE.md)
